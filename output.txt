@@ -1,0 +1,9 @@
+Can't load /etc/samba/smb.conf - run testparm to debug it
+  .                                   D        0  Mon Jul 31 19:53:33 2023
+  ..                                  D        0  Sun Jul 30 17:48:10 2023
+  FOLDER2                             D        0  Sun Jul 30 20:24:12 2023
+  test.txt                            N       22  Mon Jul 31 19:52:13 2023
+  test1234.mp4                        N 51597140  Tue May 30 23:24:46 2023
+  FOLDER1                             D        0  Sun Jul 30 20:24:31 2023
+
+		960380628 blocks of size 1024. 528402232 blocks available
